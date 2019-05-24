@@ -15,7 +15,6 @@ public class UserHandler {
         this.socket = socket;
         this.scaner = scanner;
         this.user = user;
-
     }
 
     public void sendMess() {
